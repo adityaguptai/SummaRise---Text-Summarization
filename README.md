@@ -1,4 +1,4 @@
-# SummaRise---Text-Summarization
+# SummaRise Text-Summarization
 Understanding about Text Summarization and Implementing various Models used for Text Summarization
 
 Read Notebook [Summarise Notebook.ipynb](/Summarise_Notebook.ipynb)
@@ -83,4 +83,6 @@ Data source : [https://github.com/GeorgeMcIntire/fake_real_news_dataset](https:/
 * https://github.com/chen0040/keras-text-summarization
 
 ## [2] Pointer Generator Networks [Will be soom updated]
+
+## Android App and Chrome Extension will soon be launched for Summarization of Articles/Blogs
 
