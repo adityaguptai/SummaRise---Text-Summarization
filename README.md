@@ -82,9 +82,10 @@ Data source : [https://github.com/GeorgeMcIntire/fake_real_news_dataset](https:/
 * https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
 * https://github.com/chen0040/keras-text-summarization
 
+<hr>
 ## [2] Pointer Generator Networks [Will be soon updated]
 
 ## Note:
-### Other Models wil soon be updated
-### Android App and Chrome Extension will soon be launched for Summarization of Articles/Blogs
-
+<b> ### Other Models wil soon be updated
+ ### Android App and Chrome Extension will soon be launched for Summarization of Articles/Blogs
+</b>
