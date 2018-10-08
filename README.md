@@ -88,6 +88,6 @@ Data source : [https://github.com/GeorgeMcIntire/fake_real_news_dataset](https:/
 
 ## Note:
 <b> 
-* Other Models wil soon be updated
+* Other Models wil soon be updated </br>
 * Android App and Chrome Extension will soon be launched for Summarization of Articles/Blogs
 </b>
