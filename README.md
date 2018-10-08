@@ -75,10 +75,12 @@ python main1sent.py
 
 Also for train and validation there is Accuracy and Loss graphs available at [demo/reports] 
 
-# References
+### References
 
 Data source : [https://github.com/GeorgeMcIntire/fake_real_news_dataset](https://github.com/GeorgeMcIntire/fake_real_news_dataset)
 
 * https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
 * https://github.com/chen0040/keras-text-summarization
+
+## [2] Pointer Generator Networks [Will be soom updated]
 
