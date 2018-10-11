@@ -45,8 +45,8 @@ The recursive RNN 2 takes the article content and the current built-up summarize
 The trained models are available in the demo/models folder 
 
 ### Sample Output
-
-Article 1 :  After a week of nonstop criticism from Democrats and Republicans alike for comments many condemned as racially charged, Donald Trump claims to be altering his campaign to be a little more inclusive. While the presumptive G.O.P. has long promised to “make America great again,” Trump now says he’s adding two words to slogan to illustrate just how non-racist he really is.
+#### Article 1   
+After a week of nonstop criticism from Democrats and Republicans alike for comments many condemned as racially charged, Donald Trump claims to be altering his campaign to be a little more inclusive. While the presumptive G.O.P. has long promised to “make America great again,” Trump now says he’s adding two words to slogan to illustrate just how non-racist he really is.
 
 “You know, I have the theme ‘make America great again,’ and I've added a couple of things,” Trump announced to supporters at a campaign rally in Richmond, Virginia, on Friday night. “Right now I’m adding make America great again—I’m adding ‘for everyone,’ because it’s really going to be for everyone. It’s not going to be for a group of people, it’s going to be for everyone. It’s true.”
 
@@ -56,18 +56,19 @@ Trump, who hasn’t apologized or taken back any of his comments, indicated on F
 
 “I am the least racist person. The least racist person that you’ve ever seen. I mean give me a break,” he said at the rally. “I am the least racist person that you’ve ever looked at, believe me.”
 
-Generated Headline:  donald trump is changing his campaign refusal to blame it get i
+<b>Generated Headline:</b>  donald trump is changing his campaign refusal to blame it get i
 
-Original Headline:  Donald Trump Is Changing His Campaign Slogan to Prove He’s Not Racist
+<b>Original Headline:</b>  Donald Trump Is Changing His Campaign Slogan to Prove He’s Not Racist
 
-Article 2 :  Lavrov and Kerry discuss Syrian settlement October 28, 2016 TASS 
+#### Article 2 
+Lavrov and Kerry discuss Syrian settlement October 28, 2016 TASS 
 Russian Foreign Ministry Sergey Lavrov and U.S. Secretary of State John Kerry discussed the Syrian settlement as well as the situation in Yemen and Libya by telephone on Oct. 28. 
 The Russian Foreign Ministry said that the conversation had taken place at the U.S. side’s request. 
 "The foreign policy chiefs continued discussing ways of settling the Syrian conflict, including the normalization of the situation around Aleppo, with account taken of fundamental approaches contained in the previously reached Russian-U.S. agreements. For that, the United States should ultimately separate moderate opposition (in Syria) from terror groups," the Russian Foreign Ministry said. 
 "Lavrov and Kerry also discussed assistance to the solution of crises in Yemen and Libya as well as separate issues of bilateral agenda," the Russian Foreign Ministry stressed.
 
-Generated Headline:  lavrov and kerry discuss syrian war
-Original Headline:  Lavrov and Kerry discuss Syrian settlement
+<b>Generated Headline:</b>  lavrov and kerry discuss syrian war<br>
+<b>Original Headline:</b>  Lavrov and Kerry discuss Syrian settlement
 
 ### Installation & Configuration
 
